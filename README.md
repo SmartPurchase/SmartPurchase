@@ -29,7 +29,7 @@ Assim como você irá gostar de saber onde seu produto esta mais barato outros t
 Alguns links interessantes
 --------------------------
 
-* [RepositÃ³rio oficial](https://github.com/SmartPurchase/SmartPurchase): Onde tudo Ã© discutido e feito.
+* [Repositório oficial](https://github.com/SmartPurchase/SmartPurchase): Onde tudo é discutido e feito.
 * Para estudar
 	* [Composer](https://getcomposer.org): Gerenciador de dependecias PHP.
 	* [PHPUnit (PT_BR)](http://phpunit.de/manual/current/pt_br/index.html): Para Testes UnitÃ¡rios
