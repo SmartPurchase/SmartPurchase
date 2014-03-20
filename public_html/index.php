@@ -1,0 +1,1 @@
+<?php require dirname(dirname(__FILE__)) . DIRECTORY_SEPARATOR . 'App' . DIRECTORY_SEPARATOR . 'Bootstrap.php' ?>

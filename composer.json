@@ -10,11 +10,11 @@
     ],
     "minimum-stability": "alpha",
     "require": {
-    	"slim/slim": "dev-master",
+    	"slim/views": "dev-master",
     	"php-activerecord/php-activerecord": "dev-master",
     	"twig/twig": "dev-master"
     },
     "require-dev": {
-    	
+
     }
 }
