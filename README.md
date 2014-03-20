@@ -1,24 +1,37 @@
 SmartPurchase
 =============
 
-É comum querermos fazer uma compra no mercado
-e ficar fazendo pesquisas manualmente, de mercado
-em mercado.
+É comum querermos fazer uma compra no mercado por exemplo
+e ficar fazendo pesquisas em vários estabelimentos para tentar economizar uma graninha no final do mês,
+e você fica de estabelimento em estabelimento, anotando ou decorando vários preços, faznedo c´laculos de custo custo benefícios entre os alimentos, etc. 
 
-Além de fazer calculos manualmente convertendo unidades de medidas para encontrar onde aquele produto esta mais barato.
+Sem falar na lista de compra, que é preciso ser feita antes de sair de casa.
 
-Organizar listas de compras, todas as vezes que querermos fazer uma compra.
+Citei como exemplo o abastecimento da despença, mas se pararmos pra pensar fazendo isso em outros locais, como papelaria, corte de cabelo, emprestimos, farmácia entre outros.
 
-Citei o exemplo de um mercado, mas serve pra qualquer produto que seja comercializado.
+Este aplicativo irá nos oferecer tudo isso de uma só vez. Mas como?
 
-Mercado, farmácia, pizzaria, corte de cabelo.
+### Solução
 
-Este software é uma plataforma colaborativa onde eu farei consultas e também abastecerei.
+Este projeto funcionará com uma base de dados alimentada pelos por nós consumidores, eu ajudo você e você me ajuda.
 
-Suponhamos que este mês eu queira comprar: arroz, feijão e macarrão.
+Basicamente... Ví uma promoção daquelas tentadoras, publique!
+Assim como você irá gostar de saber onde seu produto esta mais barato outros também gostariam...
 
-Vou no SharePrices e cadastro minha lista lá automaticamente o sistema - através dos inputs dos outros colaboradores, e de um rank que apurará a veracidade dos preços - onde é mais barato comprar, e isso separado por estabelecimento.
+### Como me cadastrar?
 
-Feijão e arroz você compra AQUI, macarrão você compra ALI.
+	Aguardando o desenvolvimento do sistema primeiro.
 
-Por que tempo é dinheiro.
+### Como contribuir
+
+	Aguardando sua contribuiÃ§Ã£o
+
+Alguns links interessantes
+--------------------------
+
+* [RepositÃ³rio oficial](https://github.com/SmartPurchase/SmartPurchase): Onde tudo Ã© discutido e feito.
+* Para estudar
+	* [Composer](https://getcomposer.org): Gerenciador de dependecias PHP.
+	* [PHPUnit (PT_BR)](http://phpunit.de/manual/current/pt_br/index.html): Para Testes UnitÃ¡rios
+	* [PHP ActiveRecord](http://phpactiverecord.org): ORM
+	* [Aula sobre Git](http://vimeo.com/43683141)
