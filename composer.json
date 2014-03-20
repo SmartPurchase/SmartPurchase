@@ -1,0 +1,20 @@
+{
+    "name": "smart-purchase/smart-purchase",
+    "description": "Compra colaborativa inteligente",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gilglecio Santos",
+            "email": "gilglecio_765@hotmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {
+    	"slim/slim": "dev-master",
+    	"php-activerecord/php-activerecord": "dev-master",
+    	"twig/twig": "dev-master"
+    },
+    "require-dev": {
+    	
+    }
+}
