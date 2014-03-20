@@ -24,7 +24,7 @@ Assim como você irá gostar de saber onde seu produto esta mais barato outros t
 
 ### Como contribuir
 
-	Aguardando sua contribuiÃ§Ã£o
+	Aguardando sua contribuição
 
 Alguns links interessantes
 --------------------------
